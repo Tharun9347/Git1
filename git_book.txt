@@ -17,7 +17,7 @@
       ->Then push by using command: git push -u origin master.
       ->git log is to know modifications that we done.
       ->git branch -a is to know no.of branches in remote repo.
-->Branch: We can create multiple branches where we can push files by specifically.
+->Branch: is like packages,We can create multiple branches where we can push files by specifically.
       ->A default branch is called Master branch.  
   
 
