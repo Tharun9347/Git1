@@ -1,0 +1,24 @@
+->Git: Git is a Version Control System.
+->VCS:Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+->Working Directory: A folder which comprises of files where we works to push/pull/clone its files to remote Repository(GitHub).
+->Advantage of pushing files to remote repository is, when our system fails or crashed, we can extract them to our folders of file Manager.
+->Remote repository: The repositories we create in GitHub are called remote repositories.
+->Local/git Repository: The repository which is created on executing command (git init) in working directory.
+     ->.git file is created in working directory when we do git commit.
+     ->.git file is called local/git repository.
+->Local repository contains staging area, first we add files to staging area by using command(git add filename).
+->if we want to add all files of working directory use command(git add .)
+->working directory----add--->staging area---commit-->local repository----push---->Remote repository(GitHub).
+->The files in working directory which we add into staging area are called tracked files and rest are untracked.
+->The files in staging area need to be committed to local repo and that can be done by using command(git commit -m "message").
+->once we use commit command all files in staging area will move to local repo.
+->After committing files in local repo can be pushed to remote repo after specifying to which remote repo need to push files.
+      ->command: git remote add origin remoteRepoLink.
+      ->Then push by using command: git push -u origin master.
+      ->git log is to know modifications that we done.
+      ->git branch -a is to know no.of branches in remote repo.
+->Branch: We can create multiple branches where we can push files by specifically.
+      ->A default branch is called Master branch.  
+  
+
+
