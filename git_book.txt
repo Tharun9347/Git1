@@ -1,5 +1,5 @@
 ->Git: Git is a Version Control System.
-->VCS:Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+->VCS:  Version control is a system that records changes to a file or set of files over time so that you can recall specific versions laterrr.
 ->Working Directory: A folder which comprises of files where we works to push/pull/clone its files to remote Repository(GitHub).
 ->Advantage of pushing files to remote repository is, when our system fails or crashed, we can extract them to our folders of file Manager.
 ->Remote repository: The repositories we create in GitHub are called remote repositories.
